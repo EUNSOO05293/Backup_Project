@@ -1,1 +1,3 @@
-# Backup_Project
+# 자동 백업 프로그램 개발 완료!
+# 개발환경 : vscode
+# 개발언어 : python 3.15
